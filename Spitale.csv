@@ -1,0 +1,43 @@
+SPITAL_ID,NUME_SPITAL,ORAS_ID,INVESTIGATOR_ID
+1,Spitalul Clinic Judetean de Urgenta Arad,1,5
+2,Spitalul Judetean de Urgenta Bacau,2,2
+3,Spitalul Judetean de Urgenta Mavromati Botosani,3,1
+4,Spitalul de Pneumoftziologie Botosani,3,10
+5,Spitalul Clinic Judetean de Urgenta Brasov,4,10
+6,Spitalul Judetean de Urgenta Buzau,5,1
+7,Spitalul Clinic Judetean de Urgenta Cluj-Napoca,6,5
+8,Spitalul Municipal Turda,6,6
+9,Spitalul Municipal Campia Turzii,6,6
+10,Spitalul Orasenesc Huedin,6,6
+11,Spitalul Clinic de Boli Infectioase Cluj-Napoca,6,7
+12,Spitalul Militar Cluj-Napoca,6,7
+13,Spitalul Judetean de Urgenta Constanta,7,6
+14,Centrul de Copii Sf. Laurentiu din Cernavoda,7,6
+15,Spitalul Filantropia Craiova,8,6
+16,Spitalul Clinic Judetean de Urgenta Craiova,8,6
+17,Spitalul Clinic Cai Ferate Craiova,8,8
+18,Spitalul de Boli Infectioase Victor Babes Craiova,8,9
+19,Spitalul de Neuropsihiatrie Craiova,8,3
+20,Spitalul Militar Craiova,8,4
+21,Spitalul Municipal Calafat,8,4
+22,Spitalul de Psihiatrie Poiana Mare,8,5
+23,Spitalul de Pneumoftiziologie Leamna,8,7
+24,Spitalul Clinic de Boli Infectioase V. Babes,8,7
+25,Spitalul Judetean de Urgenta Drobeta-Turnu Severin,9,8
+26,Spitalul Clinic Judetean de Urgenta Sfantul Apostol Andrei Galati,10,2
+27,Spitalul Judetean Targu-Jiu,11,2
+28,Elytis Hospital Iasi spital privat,12,3
+29,Spitalul „Providenta” al Mitropoliei Moldovei si Bucovinei ,12,1
+30,Spitalul de Pneumoftiziologie (TBC) din Baia Mare,13,1
+31,Spitalul Nova Vita,14,10
+32,Spitalul Judetean de Urgenta Slatina,15,10
+33,Spitalul Municipal Caracal,15,10
+34,Spitalul de Psihiatrie Cronici Schitu Greci,15,10
+35,Spitalul Orasenesc Bals,15,10
+36,Spitalul Orasenesc Corabia,15,10
+37,Spitalul Judetean de Urgenta Ploiesti,16,7
+38,Spitalul Judetean de Urgenta „Sfantul Ioan cel Nou” din Suceava,17,7
+39,Spitalul Mizericordienilor din Timisoara,18,3
+40,Sanatoriul de leprosi din Tichilesti Tulcea - ultima leprozerie din sud-estul Europei,19,2
+41,Spitalul „Elena Beldiman” din Barlad,20,1
+42,Spitalul Judetean de Urgenta Valcea,21,1
